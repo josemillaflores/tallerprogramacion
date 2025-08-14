@@ -12,11 +12,12 @@ import java.util.Scanner;
  */
 public class variables {
     public static void main(String[] args) {
-       System.out.println("Hola Mundo");
+       System.out.println("Hola Mundo UTP");
        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa tu nombre: ");
          String nombre = scanner.nextLine();
-     System.out.println("Tu nombre es: " + nombre);
+        System.out.println("Tu nombre es: " + nombre);
+        
 
     }
 }
